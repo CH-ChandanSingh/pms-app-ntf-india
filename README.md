@@ -1,6 +1,12 @@
 # pms-app-ntf-india
 pms-app-ntf-india
 
+**Set your database password:**
+1. config.js
+   password: "Your DB password"
+3. config.js
+   password: "Your DB password"
+
 **To start frontend:**
 1. Got to backend folder
    cd/backend
